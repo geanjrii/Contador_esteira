@@ -1,0 +1,6 @@
+
+State Machine - |Contador_esteira|funcionamento
+Name funcionamento.espera funcionamento.atividade funcionamento.emergencia 
+funcionamento.espera 0 0 0 
+funcionamento.emergencia 1 0 1 
+funcionamento.atividade 1 1 0 
